@@ -46,11 +46,6 @@
         "@first": true
     },
     "workspace": {
-        "@folders": [
-            {
-                "name": "sites",
-                "path": "/sites"
-            }
-        ]
+        "@folders": []
     }
 }
