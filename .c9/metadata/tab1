@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"changed":false,"filter":false,"title":"bash - \"ip-172-31-20-207.ap-northeast-1.compute.internal\" ","tooltip":"bash - \"ip-172-31-20-207.ap-northeast-1.compute.internal\" ","value":"","undoManager":{"mark":-1,"position":-1,"stack":[]},"terminal":{"id":"cloud9_terminal_578","cwd":"","width":820,"height":671,"scrollTop":2231},"timestamp":1693739466070}
+=======
+{"changed":false,"filter":false,"title":"bash - \"ip-172-31-20-207.ap-northeast-1.compute.internal\" ","tooltip":"bash - \"ip-172-31-20-207.ap-northeast-1.compute.internal\" ","value":"","undoManager":{"mark":-1,"position":-1,"stack":[]},"terminal":{"id":"cloud9_terminal_578","cwd":"","width":1644,"height":671,"scrollTop":8199},"timestamp":1693739466070}
+>>>>>>> 341003556323f7e20a015c7c874239424062983f
