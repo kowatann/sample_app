@@ -65,24 +65,29 @@ footer {
   background-color: #aaa;
 }
 @media screen and (max-width: 768px) {
+  
+  header {
+  width: 100%;
+   background-color: #ff9a4b;
+  }
+  
+  
    main {
+     padding: 50px auto;
      width: 100%;
      display: block;
    }
   
 .step-box {
-  margin-right: 10%;
+  width: 90%;
+  margin: 20%;
+  position: relative;
+  background-color: #eee;
 }
-  
-  .step-img1 {
-    width: 100%;
-  }
-  
-  .step-img2 {
-    width: 100%;
-  }
-  
-  .step-img3 {
-    width: 100%;
-  }
-  
+
+.step-img1 {
+  width: 100%;
+}
+
+
+}
