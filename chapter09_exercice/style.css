@@ -80,14 +80,24 @@ footer {
   
 .step-box {
   width: 90%;
-  margin: 20%;
+  margin: 20px;
   position: relative;
   background-color: #eee;
 }
 
 .step-img1 {
-  width: 100%;
+  heigth: 150px ;
 }
+
+.step-img2 {
+  heigth: 150px;
+}
+
+.step-img3 {
+  heigth: 150px;
+}
+
+
 
 
 }
