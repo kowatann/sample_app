@@ -1,3 +1,3 @@
-# DMM WEBCAMPコンテンツ【HTML/CSSを学ぼう】
+# DMM WEBCAMPコンテンツ【railsを学ぼう】
 
-レスポンシブ対応させよう　課題１です。
+rails
